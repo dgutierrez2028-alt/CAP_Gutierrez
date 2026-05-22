@@ -1,0 +1,30 @@
+
+<html>
+  <body>
+    <head>
+    <link rel="stylesheet" href="future.css">
+     
+      </head>
+    <ul> 
+      <li> <a href="growth.html">My growth</a> </li>
+      
+      <li> <a href="best-work.html">My best work</a> </li>
+      
+      <li> <a href="homepage.html">homepage</a> </li>
+
+       <li> <a href="index.html">about me</a> </li>
+
+    </ul>
+    <h1> My Future</h1>
+    <h3>What skills have you learned? How can you apply these skills to other subjects?</h3>
+<p>I have learned that the order in which you code/do things really matters, because it effects the outcome. Ive applied and can continue to apply this to other subjects like literature and math by remembering the steps on how to write an essay or a formula for a math problem.</p>
+    
+    <h3>Do you have any goals related to computer science?</h3>
+<p> Although this class has made me really like computer science, I dont know if its something I would want to continue to do/persue in my future.</p>
+    
+    <h3>What did you learn about yourself during this class?</h3>
+<p>I learned that I really do like computer science and that it has taught me that I like subjects where theres only one right way to do things while still leaving room for creativity. For example, everyones projects always look so different but they are all still coded in a way that works, and even one new block of code could mess it all up. </p>
+    
+    <h3>What are some areas that are still weaknesses for you? What can you do to continue to grow in these areas?</h3>
+<p>Some areas that are stil weaknesses are still using teh html tab and the style sheet because although I feel like I know alot about them, I still fel like I need to learn more, because there is just so much more code out there. I can continue to grow in these areas by asking Ms.Luna to help me and tell her I want to learn more and maybe staying back after school just to learn more things about code.</p>
+        

@@ -1,0 +1,51 @@
+body {
+background: white;
+background-image: url(purple-floral.jpg);
+background-color: #c2ecf9;
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 100vh;
+text-align: canter;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #cccdea;
+  display: flex;
+  justify-content: center;
+}
+ul li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+ul li a:hover {
+  background-color: #cdbcf5;
+}
+p{
+color: #5f3781;
+}
+
+h3{
+color: #5f3781;
+justify-content: center;
+font-family: cursive;
+  text-align: center;
+}
+ol{
+  color: #5f3781;
+  text-align: left;
+}
+img{
+  float: right;
+    height: 190px;
+  width: 190px; 
+} 
+h1 {
+color: #5f3781;
+  text-align: center;
+  font-family: cursive;
+  
+}
